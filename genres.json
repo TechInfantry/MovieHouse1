@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5cc1b32e60908560ee62cc6a"
+  },
+  "genre": "Action"
+},{
+  "_id": {
+    "$oid": "5cc1b38060908560ee62cc6b"
+  },
+  "genre": "Comedy"
+},{
+  "_id": {
+    "$oid": "5cc1b38f60908560ee62cc6c"
+  },
+  "genre": "Thriller"
+},{
+  "_id": {
+    "$oid": "5cc2b393a81e0b6fca998e2d"
+  },
+  "genre": "Horror",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5cc95cb41c9d440000d12cc3"
+  },
+  "genre": "Drama"
+},{
+  "_id": {
+    "$oid": "5cc95cd01c9d440000d12cc4"
+  },
+  "genre": "Fantasy"
+},{
+  "_id": {
+    "$oid": "5cc95ce31c9d440000d12cc5"
+  },
+  "genre": "Animation"
+}]
